@@ -1,4 +1,4 @@
-# Restaurant-MS
+## Restaurant-MS
 
 1.Run the RestaurantManagementSystem.py to perform operations using the console.
 2. Run fitnessDb once to create necessary databases and tables.
